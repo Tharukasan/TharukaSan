@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Tharuka Sandaruwan 👋</h1>
 <h3 align="center">Passionate Frontend Developer | Lifelong Learner from Sri Lanka 🌍</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharukasan&label=Profile%20views&color=0e75b6&style=flat" alt="tharukasan" />
-  <img src="https://github-profile-trophy.vercel.app/?username=tharukasan&row=1&column=6" alt="tharukasan" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
