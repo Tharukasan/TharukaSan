@@ -14,7 +14,4 @@ I'm a passionate student and web developer, currently learning React.js and Word
 - 🎨 Design: Figma | UI/UX | Photo & Video Editing
 - 🛠️ Tools: Git | GitHub | VS Code
 
-### 📊 GitHub Stats
-![Tharuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
