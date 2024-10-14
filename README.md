@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Tharuka Sandaruwan 👋
 
-<!--
-**Tharukasan/TharukaSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student and web developer, currently learning React.js and WordPress. I enjoy building modern, user-friendly web pages and am eager to expand my backend development skills.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **backend development** and **WordPress**
+- 🔭 I’m working on improving my portfolio website and projects
+- 👨‍💻 I’m familiar with HTML, CSS, JavaScript, and learning React
+- 📫 How to reach me: tharukasandaruwan20032@gmail.com
+- ⚡ Fun fact: I love learning new tech every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- 💻 Frontend: HTML | CSS | JavaScript | React.js | Tailwind CSS
+- 🎨 Design: Figma | UI/UX | Photo & Video Editing
+- 🛠️ Tools: Git | GitHub | VS Code
+
+### 📊 GitHub Stats
+![Tharuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
