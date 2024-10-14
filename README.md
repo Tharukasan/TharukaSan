@@ -4,9 +4,6 @@
   <em>Student | Web Developer | Lifelong Learner</em>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="500" height="300" />
-</p>
 
 ---
 
@@ -37,8 +34,7 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Tharuka's GitHub Stats" />
-  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
@@ -46,9 +42,6 @@
 
 ### 🔥 Top Languages:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
@@ -64,7 +57,7 @@
 ### ✍️ Random Developer Quote:
 
 <p align="center">
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
 
 ---
